@@ -2,8 +2,8 @@
 A sample application for displaying stock prices every 1.5 seconds.
 
 The application consists of two solutions:
-	• Backend Server: ASP.NET Core Web Api with integrated SignalR for communication.
-	• Frontend Client: .NET Core Console application with a SignalR hub for receiving push updates from the backend.
+* Backend Server: ASP.NET Core Web Api with integrated SignalR for communication.
+* Frontend Client: .NET Core Console application with a SignalR hub for receiving push updates from the backend.
  
 To run the application:
 	1. Start the Backend Server in your IDE of choice.
